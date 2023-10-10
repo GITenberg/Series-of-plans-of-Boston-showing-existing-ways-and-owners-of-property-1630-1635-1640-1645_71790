@@ -1,0 +1,37 @@
+_repo: Series-of-plans-of-Boston-showing-existing-ways-and-owners-of-property-1630-1635-1640-1645_71790
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: McGlenen, Edward W. (Edward Webster)
+    alias: M'Glenen, E. W. (Edward Webster)
+    birthdate: 1855
+    deathdate: 1930
+    gutenberg_agent_id: '56374'
+    url: http://www.gutenberg.org/2009/agents/56374
+creator:
+  author:
+    agent_name: Lamb, George
+    gutenberg_agent_id: '56399'
+    url: http://www.gutenberg.org/2009/agents/56399
+description: ''
+gutenberg_issued: '2023-10-03'
+identifiers:
+  gutenberg: '71790'
+  lccn: '07026247'
+language: en
+pgterms:marc905: 20230826093019lamb
+pgterms:marc906: '1905'
+pgterms:marc907: US
+production_note: Bob Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aBoston, MA :$bMunicipal printing office, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Real property -- Massachusetts -- Boston'
+- !lcsh 'Boston (Mass.) -- Maps'
+- !lcc 'F001'
+- GITenberg
+title: Series of plans of Boston showing existing ways and owners of property 1630-1635-1640-1645
+url: http://www.gutenberg.org/ebooks/71790
