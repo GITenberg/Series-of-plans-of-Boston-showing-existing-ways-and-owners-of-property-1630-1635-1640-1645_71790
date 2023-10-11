@@ -8,12 +8,17 @@ contributor:
     deathdate: 1930
     gutenberg_agent_id: '56374'
     url: http://www.gutenberg.org/2009/agents/56374
+covers:
+- cover_type: archival
+  image_path: 71790-h/images/cover.jpg
 creator:
   author:
     agent_name: Lamb, George
     gutenberg_agent_id: '56399'
     url: http://www.gutenberg.org/2009/agents/56399
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71790#Series-of-plans-of-Boston-showing-existing-ways-and-owners-of-property-1630-1635-1640-1645
 gutenberg_issued: '2023-10-03'
 identifiers:
   gutenberg: '71790'
